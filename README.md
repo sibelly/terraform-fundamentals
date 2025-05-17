@@ -6,6 +6,7 @@ Study project to understand terraform better
 ```
 terraform init
 terraform apply
+terraform apply --auto-approve
 terraform plan
 terraform destroy
 ```
