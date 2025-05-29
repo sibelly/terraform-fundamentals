@@ -13,7 +13,7 @@ terraform destroy
 
 ## Docs
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs
-https://github.com/codeedu/fc2-terraform/blob/main/variables.tf
+https://github.com/codeedu/fc2-terraform
 
 ## AWS commands
 - Access cluster
