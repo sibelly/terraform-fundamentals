@@ -34,8 +34,8 @@ terraform plan -var-file=name-of-file.tfvars
 ```
 
 ## Docs
-https://registry.terraform.io/providers/hashicorp/aws/latest/docs
-https://github.com/codeedu/fc2-terraform
+- https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+- https://github.com/codeedu/fc2-terraform
 
 ## AWS commands
 - Access cluster
